@@ -1,0 +1,7 @@
+ @font-face {
+    font-family: GloriaHallelujah-Regular;
+    src: url(font/GloriaHallelujah-Regular.ttf);
+   }
+html{
+    font-family: GloriaHallelujah-Regular, 'Comic Sans MS', cursive;
+}
